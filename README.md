@@ -1,34 +1,24 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# To do List
 
-## Getting Started
+![Screenshot_20](https://user-images.githubusercontent.com/89014167/156884444-b6f67d59-eaa2-4df7-80cf-a50ab05cd425.png)
 
-First, run the development server:
+## 📚 Informações sobre o projeto
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+- Projeto desenvolvido após o termino do modulo de chakra-ui da rocketseat, a ideia era pegar meus conhecimentos adiquiridos para criar uma interface responsiva e usual.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 💻 O que tem no projeto?
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+- [x] Adicionar Tasks
+      ![Screenshot_23](https://user-images.githubusercontent.com/89014167/156884467-48e16832-20d8-4c08-aecf-f5ef677b95c9.png)
+- [x] Completar Tasks
+      ![Screenshot_21](https://user-images.githubusercontent.com/89014167/156884460-6c3796e2-08b5-4caf-857e-a1dc75c560d9.png)
+- [x] Remover Tasks
+      ![Screenshot_20](https://user-images.githubusercontent.com/89014167/156884444-b6f67d59-eaa2-4df7-80cf-a50ab05cd425.png)
+- [x] Responsivo
+      ![Screenshot_22](https://user-images.githubusercontent.com/89014167/156884397-cb82691b-bd43-4d38-9bdd-679c1de553f3.png)
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+## ⚙ Tecnologias
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- [Next.js](https://nextjs.org/)
+- [React](https://pt-br.reactjs.org/E)
+- [Typescript](https://www.typescriptlang.org/)
