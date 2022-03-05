@@ -15,7 +15,9 @@
 - [x] Remover Tasks
       ![Screenshot_20](https://user-images.githubusercontent.com/89014167/156884444-b6f67d59-eaa2-4df7-80cf-a50ab05cd425.png)
 - [x] Responsivo
-      ![Screenshot_22](https://user-images.githubusercontent.com/89014167/156884397-cb82691b-bd43-4d38-9bdd-679c1de553f3.png)
+    <div>
+      <img src="https://user-images.githubusercontent.com/89014167/156884397-cb82691b-bd43-4d38-9bdd-679c1de553f3.png" alt="Responsive Image"/>
+    </div>
 
 ## ⚙ Tecnologias
 
